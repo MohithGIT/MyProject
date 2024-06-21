@@ -1,3 +1,17 @@
 DummyFile
 
 mohith ravulapally
+
+public static void ToPrintCharactersInString(){
+		
+		String text= "MohithRao";
+		
+		System.out.println("Print each character in the string :");
+		
+		for(int i=0;i< text.length();i++){
+		
+			System.out.println(text.charAt(i));
+		}
+
+
+Thanmai
